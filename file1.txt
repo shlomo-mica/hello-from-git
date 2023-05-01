@@ -1,1 +1,4 @@
 Hello from git
+Git is better with github
+Learn git and Aws and get a great job
+
